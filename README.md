@@ -39,5 +39,6 @@ Predicting the type (e.g. circle, triangle, oval) and the country of a UFO sight
 
 **Conclusion**
 
-- Summary
-- Next steps
+The score to predict the country of the sighting (us or not us) is pretty good on both KNN and Logistic Regression!
+
+Sadly, the model performance in predicting the type of the UFO-Sighting is really bad. Further investigating the text or finding other features that are useful in predicting the type would be the next step.
