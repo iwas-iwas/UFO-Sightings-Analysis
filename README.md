@@ -1,10 +1,26 @@
-# View Project: https://nbviewer.jupyter.org/github/iwasscience/UFO-Sightings-Analysis/blob/master/UFO-Project.ipynb
+# View Project: 
 
-# UFO Sightings Project - Iwas Iwas
+https://nbviewer.jupyter.org/github/iwasscience/UFO-Sightings-Analysis/blob/master/UFO-Project.ipynb
+
+# UFO Sightings Project
+
+![ufo](Data/ufo_pic.jpg)
 
 ## Tools: 
 
 pandas, numpy, scikit-learn (logistic regression, k-neighbors-classifier, multinomial naive bayes), tfidf-vectorizer
+
+### Introduction
+
+In most UFO sightings, what people believe are UFOs are actually just common objects like planes and clouds, or celestial events like meteors and planets that seem unusually bright.
+
+Some cases remain unidentified even after they’ve been investigated, but scientists believe many of these to also be sightings of more common objects that people simply didn’t recognize.
+
+Many reported UFO sightings actually turn out to be something as simple as a balloon.
+
+### Motivation
+
+Predicting the type (e.g. circle, triangle, oval) and the country of a UFO sighting.
 
 ## Structure:
 
